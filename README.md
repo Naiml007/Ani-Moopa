@@ -184,6 +184,7 @@ If you have any questions or feedback, please reach out to us at [contact@moopa.
 or you can DM me on Discord `Factiven#9110`.
 
 [![Discord Banner](https://discordapp.com/api/guilds/822413263148285973/widget.png?style=banner2)](https://discord.gg/v5fjSdKwr2)
+original 
 
 ## Support This Project
 
